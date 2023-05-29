@@ -1,0 +1,82 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+nav
+{
+	background: orange;
+	height: 80px;
+	width: 100%;
+}	
+label.logo
+{
+	color: white;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-weight: bold;
+}
+nav ul
+{
+	float: right;
+	margin-right: 20px;
+}
+nav ul li
+{
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+nav ul li a
+{
+	color: white;
+	font-size: 17px;
+	padding: 17px 13px;
+	border-radius: 3px
+	text-transform: uppercase;
+}
+body
+{
+	 background-image: url("../images/truck2.jpg"); 
+	 background-size: 4000px;	 
+	 background-repeat: no-repeat;
+}
+.blue
+{
+	background: orange;
+	width: 600px;
+	height: 450px;
+	margin: 10px;
+	padding: 10px;
+}
+.blue p
+{
+	font-size: 25px;
+}
+.phone
+{
+	background: orange;
+	width: 200px;
+	
+}
+.white
+{
+	margin:10px;
+	background-color: rgb(206, 123, 68);
+	opacity: 100;
+	width:1300px;
+	height:700px;
+
+}
+.navc
+{
+	border: 1px solid black;
+}
+th
+{
+	background: lightblue;
+}
